@@ -20,5 +20,17 @@ console.log(booleanIsLoggedIn)
 //"Pankaj"=> true
 
 let someNumber=33
-let stringNumber=S tring(someNumber)
-console.log(stringNumber)
+let stringNumber=String(someNumber)
+// console.log(stringNumber)
+
+//*****Operations *//
+let value=3;
+let negvalue=-value;
+//console.log(negvalue)
+
+
+//console.log("1" + 2);//output-12
+//console.log(1+3+"4");//output=44
+let gameCounter=100;
+++gameCounter;
+console.log(gameCounter)
